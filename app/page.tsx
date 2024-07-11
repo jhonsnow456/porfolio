@@ -18,8 +18,8 @@ export default function Home() {
         <RecentProjects />
         <Clients />
         <Experience />
-        {/* TODO: Fix Approch Section */}
-        {/* <Approach /> */}
+        {/* TODO: Enhancement Required Approch Section */}
+        <Approach />
         <Footer />
       </div>
     </main>
